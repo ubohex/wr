@@ -1,0 +1,189 @@
+ .u-section-1 {
+  min-height: 100vh;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 918px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.875rem;
+  margin: 10px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.875rem;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-image-1 {
+  width: 435px;
+  height: 472px;
+  margin: 10px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.875rem;
+  width: 598px;
+  margin: 10px auto 0;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 1.875rem;
+  width: 589px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  margin: 33px 299px 0 auto;
+  padding: 10px 31px 11px 29px;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  display: block;
+  margin: -50px 691px 0 295px;
+  padding: 10px 38px 11px 36px;
+}
+
+.u-section-1 .u-btn-3 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  margin: -50px auto 60px;
+  padding: 10px 47px 11px 46px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    margin-left: 290px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 185px;
+    margin-left: 257px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 226px;
+    margin-right: 226px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 309px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 552px;
+    margin-left: 264px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-2 {
+    margin-top: 96px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 180px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 25px;
+    margin-left: 197px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 116px;
+    margin-right: 116px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 153px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 419px;
+    margin-left: 177px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    margin-top: -499px;
+    margin-left: 90px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    margin-top: -9px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 108px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 306px;
+    margin-left: 110px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 815px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 282px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 369px;
+    margin-top: -310px;
+    margin-left: 50px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -62px;
+    margin-left: 93px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 58px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 140px;
+    margin-left: 76px;
+  }
+}
+
+.u-block-1f78-10:not([data-block-selected]):not([data-cell-selected]),
+.u-block-1f78-10:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-1f78-10:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-block-1f78-13:not([data-block-selected]):not([data-cell-selected]),
+.u-block-1f78-13:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-1f78-13:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
